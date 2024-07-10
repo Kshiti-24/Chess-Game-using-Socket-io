@@ -3,6 +3,7 @@ const socket = require("socket.io");
 const http = require("http");
 const { Chess } = require("chess.js");
 const path = require("path");
+const PORT = process.env.PORT || 3000;
 
 const app = express();
 const server = http.createServer(app);
@@ -193,6 +194,6 @@ const getUsersInRoom = (roomName) => {
   return users;
 };
 
-server.listen(3000, () => {
+server.listen(PORT, () => {
   console.log("Server live at port 3000");
 });
