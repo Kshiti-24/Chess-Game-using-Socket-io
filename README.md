@@ -2,6 +2,8 @@
 
 Welcome to the **Chess Game** project! This real-time multiplayer chess game allows two players to compete against each other while other users can join as spectators. The project leverages a range of modern web technologies to provide a seamless and interactive experience.
 
+![2024-07-10](https://github.com/Kshiti-24/Chess-Game-using-Socket-io/assets/101202139/aee798e6-c591-4894-ba1b-16b0ecdc02d5)
+
 ## Features
 
 - **Real-time Gameplay**: Players can compete in real-time thanks to Socket.io.
