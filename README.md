@@ -35,8 +35,8 @@ Ensure you have the following installed on your local machine:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/chess-game.git
-    cd chess-game
+    git clone https://github.com/yourusername/chess-game-using-socket-io.git
+    cd chess-game-using-socket-io
     ```
 
 2. Install dependencies:
